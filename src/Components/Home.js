@@ -5,7 +5,7 @@ import Data from "./Data";
 const Home = () => {
   return (
     <div>
-      <h1 className="text-center display-4 fw-bolder mt-2 text-xxl text-dark-emphasis">
+      <h1 className="text-center display-4 fw-bolder mt-2 text-xxl text-dark-emphasis text-bg-danger m-0 p-0">
         List Items
       </h1>
       <section className="py-4 container">
